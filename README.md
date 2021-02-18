@@ -1,7 +1,7 @@
 # Mail
 ## installation
-1- clone this repo
-
+1- Clone this repo
+2- In the command line...
 ```
 $ cd cs50w-mail
 $ python3 -m venv venv
