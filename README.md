@@ -1,5 +1,5 @@
 # Mail
-## installation
+## Installation
 1- Clone this repo
 2- In the command line...
 ```
