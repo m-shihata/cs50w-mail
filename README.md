@@ -11,4 +11,7 @@ $ python3 manage.py runserver
 3- open your browser and go to localhost:8000
 
 ## Mail in action
-[![](http://img.youtube.com/vi/o3EhgZb9Gjg/0.jpg)](http://www.youtube.com/watch?v=o3EhgZb9Gjg "")
+Watch on youtube: https://youtu.be/o3EhgZb9Gjg
+
+## Project Link on CS%0 website
+https://cs50.harvard.edu/web/2020/projects/3/mail
