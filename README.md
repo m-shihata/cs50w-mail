@@ -12,6 +12,3 @@ $ python3 manage.py runserver
 
 ## Mail in action
 Watch on youtube: https://youtu.be/o3EhgZb9Gjg
-
-## Project Link on CS50 website
-https://cs50.harvard.edu/web/2020/projects/3/mail
