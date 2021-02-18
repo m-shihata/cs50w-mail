@@ -11,4 +11,4 @@ $ python3 manage.py runserver
 3- Open your browser and go to localhost:8000
 
 ## Mail in action
-Watch on youtube: https://youtu.be/o3EhgZb9Gjg
+Watch live demo on youtube: https://youtu.be/o3EhgZb9Gjg
